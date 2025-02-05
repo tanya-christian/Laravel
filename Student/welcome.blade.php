@@ -9,7 +9,7 @@
 <body>
     <header>
         <nav>
-            <a href="{{url('/'}}">        
+            <a href="{{url('/'}}">register</a>    
         </nav>
     </header>
     <main>
