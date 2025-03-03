@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman',  serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    
+}
+
+header{
+    text-align: center;
+    padding: 10;
+    background-color: darkseagreen;
+    color: black;
+}
+
+header nav a{
+    font-size: 20px;
+    text-decoration: double;
+    margin: 15px 0;
+    color: black;
+    
+}
+
+footer{
+    text-align: center;
+    padding: 10;
+    background-color: darkseagreen;
+    color: black;
+    margin-top: 10px;
+}
+
+form{
+    background: white;
+    width: 320px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
