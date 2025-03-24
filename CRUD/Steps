@@ -1,0 +1,6 @@
+1. create model 
+2. add field names in migration date filw with datatypes and in model file
+3. migrate the file by firing php artisan migrate command in terminal
+4. create controller and in controller write command in index function
+5. create a folder in resource\views folder and in that folder create .blade.php files as mentioned in question
+6. write routes in web.php file
