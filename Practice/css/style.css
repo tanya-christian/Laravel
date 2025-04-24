@@ -1,0 +1,24 @@
+body{
+    color: black;
+    background-color: white;
+    margin: 20px;
+}
+
+header{
+    padding: 15px;
+    text-align: left;
+    background-color: cadetblue;
+    
+}
+
+header nav a{
+    color: black;
+    
+}
+
+footer{
+        padding: 15px;
+        text-align: center;
+        background-color: cadetblue;
+        color: white;
+}
